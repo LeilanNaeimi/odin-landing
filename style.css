@@ -108,6 +108,7 @@ h1 {
 .btn1{ 
 	background-color:#B31312; 
 	color: #EEE2DE; 
+    box-shadow: 5px 5px 1rem #160F30;
 }
 
 .part2{  
@@ -128,6 +129,7 @@ h1 {
 .imgs{
 	border: 2px solid #555;
     border-radius: 5px;	
+    transition: all 0.3s;
 } 
 
 .imgs:hover{   	 
@@ -150,7 +152,6 @@ h5{
 	text-align:center;
 	margin-bottom:3rem;
 }
-
 
 
 .part3{
@@ -198,6 +199,7 @@ h4{
     border-radius: 3rem;
 	background-color:#EEE2DE; 
 	color: #352F44;
+    box-shadow: 5px 5px 1rem #860A35;
 } 
 
 footer{
