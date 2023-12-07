@@ -133,15 +133,18 @@ h1 {
 }
 
 .btn:hover {
-  scale: 1.1;
+  transform: scale(1.1);
 }
 
 .btn1 {
   background-color: #b31312;
   color: #eee2de;
-  box-shadow: 0.5rem 0.5rem 1rem #160f30;
   animation: moveInBottom 0.5s ease-out 0.2s;
   animation-fill-mode: backwards;
+}
+
+.btn1:hover {
+  box-shadow: 0.5rem 0.5rem 1rem rgb(22, 15, 47, 0.8);
 }
 
 .part2 {
@@ -224,7 +227,10 @@ h4 {
   border-radius: 3rem;
   background-color: #eee2de;
   color: #352f44;
-  box-shadow: 0.5rem 0.5rem 1rem #860a35;
+}
+
+.btn2:hover {
+  box-shadow: 0.5rem 0.5rem 1rem rgb(133, 10, 53, 0.8);
 }
 
 footer {
