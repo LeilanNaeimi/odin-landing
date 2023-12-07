@@ -9,6 +9,7 @@ body{
 	font-weight: 400;
     line-height: 3rem;    
 	background-size: cover;
+	background-color:#EEE2DE; 
 	 
 }
 
@@ -18,9 +19,9 @@ html{
 }
 
 header{
-	background-color:#6C3428;
+	background-color:#2B2A4C;
 	font-size: 20px;
-	color: #CEE6F3;
+	color: #EEE2DE;
 	padding:3rem; 
 }
 
@@ -43,7 +44,7 @@ h2 {
  
  a{
 	 text-decoration: none;
-	 color: #CEE6F3;
+	 color: #EEE2DE;
 	margin-right:2rem;
  }
 
@@ -71,8 +72,9 @@ h1 {
 .right{
 	width:500px;
 	height:150px;
-    font-size: 15px;
-	background-color:#BA704F; 
+    font-size: 15px; 
+	background-color:#CEE6F3;
+	color: #352F44;
 	text-align: center;  
     border-radius: 1rem;
 }
@@ -88,8 +90,8 @@ h1 {
 }	
 
 .btn1{
-	background-color:#CEE6F3; 
-	color: #352F44;
+	background-color:#B31312; 
+	color: #EEE2DE;
 }
 
 .part2{  
@@ -118,10 +120,10 @@ h1 {
 .part3{
 	display:flex;
 	flex-direction:column;
-	background-color:#DFA878;  
+	background-color:#2B2A4C;
+	color: #CEE6F3;  	
 	padding:3rem 10rem ; 
-    margin-bottom: 3rem;
-	color: #352F44;
+    margin-bottom: 3rem; 
     font-style: italic;
 }
 
@@ -140,10 +142,10 @@ h4{
 }
 
 .part4{
-	background-color:#CEE6F3;
+	background-color:#B31312;
 	display:flex; 
 	justify-content:space-around;
-	color: #352F44;
+	color: #EEE2DE;
 }
 
 .text4{
@@ -154,7 +156,7 @@ h4{
 }
 
  .btn2{
-	background-color:#DFA878; 
+	background-color:#EEE2DE; 
 	color: #352F44;
 	margin-bottom:3rem;
 	margin-top:3rem;
@@ -166,6 +168,6 @@ footer{
 }
 
 .Github-link{
-	color: #352F44;
+	color: #B31312;
 	
 }
