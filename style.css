@@ -1,0 +1,171 @@
+
+*{
+   margin: 0;
+   padding: 0;
+}
+
+body{
+	font-family: Nunito Sans,sans-serif;
+	font-weight: 400;
+    line-height: 3rem;    
+	background-size: cover;
+	 
+}
+
+html{
+	box-sizing: border-box;
+	font-size: 62.5%;
+}
+
+header{
+	background-color:#6C3428;
+	font-size: 20px;
+	color: #CEE6F3;
+	padding:3rem; 
+}
+
+nav{
+display: flex; 
+justify-content: space-between;
+    align-items: center;
+    padding: 0 2rem;
+	margin-left:5rem;
+	margin-right:5rem;
+    margin-bottom: 3rem;
+}	
+ 
+
+h2 {
+  margin-bottom: 1.5rem;
+  font-size: 1.7rem;
+  font-weight: 600;  
+}
+ 
+ a{
+	 text-decoration: none;
+	 color: #CEE6F3;
+	margin-right:2rem;
+ }
+
+.info{
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2rem;
+	margin-left:5rem;
+	margin-right:5rem; 
+    margin-bottom: 3rem;
+}
+
+h1 {
+  margin-bottom: 3rem;
+  font-size: 40px;
+  font-weight: 600;  
+}
+
+.text{ 
+    font-size: 15px;
+	margin-right:7rem;
+}
+
+.right{
+	width:500px;
+	height:150px;
+    font-size: 15px;
+	background-color:#BA704F; 
+	text-align: center;  
+    border-radius: 1rem;
+}
+
+.btn{
+	width: 100px;
+	height: 50px;
+	border:none;
+    border-radius: 1rem;
+	font-size:1.5rem;
+	cursor:pointer;
+    margin-top: 1rem;
+}	
+
+.btn1{
+	background-color:#CEE6F3; 
+	color: #352F44;
+}
+
+.part2{  
+	font-size: 20px; 
+	padding:3rem; 
+	color: #352F44;
+	justify-items:center;
+	align-content:center;
+	text-align:center;
+}
+
+.text2{
+	
+    font-size: 25px;
+	margin-right:7rem;
+	text-align:center;
+	margin-bottom:3rem;
+}
+
+.imgs{
+	border: 2px solid #555;
+    border-radius: 5px;
+	
+} 
+
+.part3{
+	display:flex;
+	flex-direction:column;
+	background-color:#DFA878;  
+	padding:3rem 10rem ; 
+    margin-bottom: 3rem;
+	color: #352F44;
+    font-style: italic;
+}
+
+.text3{	
+    font-size: 20px; 
+	margin-right:7rem;
+	text-align:start;
+	margin-bottom:3rem;
+	flex-wrap:wrap;
+	
+}
+
+h4{  
+    font-size: 15px; 
+	text-align:end;
+}
+
+.part4{
+	background-color:#CEE6F3;
+	display:flex; 
+	justify-content:space-around;
+	color: #352F44;
+}
+
+.text4{
+	
+    font-size: 15px; 
+	margin-bottom:3rem;
+	margin-top:3rem;
+}
+
+ .btn2{
+	background-color:#DFA878; 
+	color: #352F44;
+	margin-bottom:3rem;
+	margin-top:3rem;
+}
+
+footer{
+	text-align:center
+	
+}
+
+.Github-link{
+	color: #352F44;
+	
+}
