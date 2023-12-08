@@ -112,6 +112,13 @@ h1 {
   margin-right: 7rem;
 }
 
+/* .overflow {
+  flex: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+} */
+
 .right {
   width: 40vw;
   height: 40vh;
