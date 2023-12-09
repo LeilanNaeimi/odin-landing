@@ -16,6 +16,13 @@ html {
   font-size: 62.5%;
 }
 
+.container {
+  margin: 7rem;
+  padding: 1rem;
+  border-radius: 10rem;
+  border: none;
+}
+
 header {
   background-color: #2b2a4c;
   font-size: 2rem;
