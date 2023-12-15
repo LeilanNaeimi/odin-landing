@@ -1,4 +1,4 @@
-Landing Page
+# Landing Page
 
 https://leilannaeimi.github.io/odin-landing/
 
